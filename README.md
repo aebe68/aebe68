@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aebe68
-- 👀 I’m interested in C++ webassembly and I’m currently learning how to use my large collection of C++ classes for web applications 
+- 👀 I’m interested in C++ webassembly and I’m currently learning how to use C++ classes for web applications 
 - 🌱 I’m looking to collaborate on reducing the environmental footprint of the WWW
 - 📫 You can reach me via email aebe68@gmail.com
 
